@@ -1,0 +1,10 @@
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.Form1.resources
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.Properties.Resources.resources
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.csproj.GenerateResource.cache
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\bin\Debug\VeriYapılarıOdev2.exe.config
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\bin\Debug\VeriYapılarıOdev2.exe
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\bin\Debug\VeriYapılarıOdev2.pdb
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.exe
+C:\Users\halil\source\repos\VeriYapılarıOdev2\VeriYapılarıOdev2\obj\Debug\VeriYapılarıOdev2.pdb
